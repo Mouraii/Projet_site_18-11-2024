@@ -1632,11 +1632,6 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.image.fit {
-			display: block;
-			width: 100%;
-		}
-
 		.image.featured {
 			display: block;
 			width: 100%;
